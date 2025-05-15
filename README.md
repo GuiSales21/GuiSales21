@@ -5,8 +5,8 @@ I'm **Guilherme Sales**, a 21-year-old student passionate about **Data Science**
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiSales21&show_icons=true&theme=tokyonight" height="200px" width="350px" style="margin-right: 12px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSales21&layout=compact&theme=tokyonight&card_width=100" height="200px" width="300px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GuiSales21&show_icons=true&theme=tokyonight" height="200px" width="400px" style="margin-right: 12px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSales21&layout=compact&theme=tokyonight&card_width=100" height="200px" width="350px"/>
 </p>
 
 <p align="left">
