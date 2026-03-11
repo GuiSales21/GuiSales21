@@ -1,6 +1,8 @@
-## Hi there 👋
+# Guilherme Sales — Data Scientist & Machine Learning Engineer
 
-I'm **Guilherme Sales**, a 21-year-old student passionate about **Data Science** and **Machine Learning**. I'm currently studying to deepen my knowledge in these areas and work on projects that turn data into insights and intelligent solutions.
+Data Science graduate currently pursuing a postgraduate degree in Machine Learning Engineering.
+
+Focused on machine learning, data analysis and building real-world data solutions.
 
 ##
 
