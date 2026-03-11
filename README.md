@@ -1,10 +1,9 @@
+---
 # Guilherme Sales — Data Scientist & Machine Learning Engineer
 
 Data Science graduate currently pursuing a postgraduate degree in Machine Learning Engineering at Data Science Academy.
 
 Focused on machine learning, data analysis and building real-world data solutions using Python, SQL and modern data science tools.
-
----
 
 ##
 
