@@ -4,6 +4,8 @@ Data Science graduate currently pursuing a postgraduate degree in Machine Learni
 
 Focused on machine learning, data analysis and building real-world data solutions using Python, SQL and modern data science tools.
 
+---
+
 ##
 
 <p align="center">
@@ -11,16 +13,45 @@ Focused on machine learning, data analysis and building real-world data solution
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSales21&layout=compact&theme=tokyonight&card_width=100" height="200px" width="400px"/>
 </p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" style="margin-right: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="50" height="50" style="margin-right: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50" style="margin-right: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-</p>
+---
 
-##
+## Featured Projects
+
+Projects coming soon. I'm currently developing machine learning and data analysis projects that will be published here.
+
+---
+
+## Skills
+
+- Python
+- SQL
+- Machine Learning
+- Data Analysis
+- Pandas
+- Scikit-learn
+- Data Visualization
+
+---
+
+## Currently Learning
+
+Machine Learning Engineering  
+Model Deployment  
+MLOps fundamentals
+
+---
+
+## Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## Contact
 <div>
- <a href="https://instagram.com/gui_sales._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:gui.sales.212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  <a href="https://www.linkedin.com/in/guilherme-sales-476a16268" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
